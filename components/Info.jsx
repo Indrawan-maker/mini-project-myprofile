@@ -9,7 +9,7 @@ export default function Info() {
         <div className="main-text">
         <h1>Muhammad Indrawan Ismail</h1>
         <h4>Frontend Developer</h4>
-        <p className="main-p">Indra-personalvercel.app</p>
+        <p className="main-p">using reactjs for development</p>
         </div>
         <div className="main-button">
             <a href="https://mail.google.com/mail/u/0/#inbox"><button className="email-btn"><img src={Logo} alt="email" className="email-logo"/> Email</button></a>
