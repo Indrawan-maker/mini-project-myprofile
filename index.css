@@ -138,3 +138,77 @@ p{
     font-size: 13.5px;
     margin-top: -12px;
 }
+
+.footer-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #161619;
+    height: 72px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    gap: 22px;
+}
+
+
+.bg-tread {
+    background-color: #918e9b;
+    width: 28px;
+    height: 28px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+}
+
+.bg-fb {
+    background-color: #918e9b;
+    width: 28px;
+    height: 28px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+}
+
+.bg-ig {
+    background-color: #918e9b;
+    width: 28px;
+    height: 28px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+}
+
+.bg-git {
+    background-color: #918e9b;
+    width: 28px;
+    height: 28px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+}
+
+.treadLogo{
+    width: 22px;
+    margin-top: 3px;
+    margin-right: 0.6px;
+}
+.fbLogo{
+    width: 31px;
+    margin-top: 3px;
+}
+.igLogo{
+    width: 22px;
+    margin-top: 3px;
+}
+.gitLogo{
+    width: 36px;
+    margin-top: 3px;
+}
