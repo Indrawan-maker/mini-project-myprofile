@@ -4,7 +4,7 @@ export default function Interest() {
         <div className="interest-wrapper">
         <h2>Interest</h2>
         <p>
-            i'm interest in Black Coffe, Nasi Pecel on the morning weekend, and Lalapan.
+            I'm interest in Black Coffe, Nasi Pecel on the weekend, and Lalapan.
         </p>
         </div>
         </>
