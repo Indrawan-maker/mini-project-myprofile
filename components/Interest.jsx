@@ -4,8 +4,8 @@ export default function Interest() {
         <div className="interest-wrapper">
         <h2>Interest</h2>
         <p>
-            Coding every day. 
-            Deepening web development skills.
+            i'm interest in kopi kapal api,
+            and coding stuff
         </p>
         </div>
         </>
